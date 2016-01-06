@@ -1,4 +1,4 @@
 this is line 1 of sp2.
 
-pineapple,watermelon,,oragnes, apples, grapes, pomogranate, , 
+pineapple,watermelon,oranges, apples, grapes, pomogranate, 
 bananaas, etc.
