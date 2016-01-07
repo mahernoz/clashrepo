@@ -1,4 +1,5 @@
 watermelon, oragnes, apples.
 //new merged of develop code here
 oranges and apples.
-
+this is line 1 of master.
+apples
